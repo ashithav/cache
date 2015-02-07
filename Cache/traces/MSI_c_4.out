@@ -1,0 +1,59 @@
+===== 506 Personal information =====
+FirstName (MiddleNames) LastName (Change it to your own name)
+UnityID (Change it to your own UID)
+Section ECE/CSC00x (Change it according to your own section)
+===== 506 SMP Simulator configuration =====
+L1_SIZE:		8192
+L1_ASSOC:		8
+L1_BLOCKSIZE:		64
+NUMBER OF PROCESSORS:	4
+COHERENCE PROTOCOL:	MSI
+TRACE FILE:		traces/canneal.04t.debug
+============ Simulation results (Cache 0) ============
+01. number of reads: 				2339
+02. number of read misses: 			231
+03. number of writes: 				269
+04. number of write misses:			3
+05. total miss rate: 				8.97%
+06. number of writebacks: 			5
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		257
+09. number of interventions: 			0
+10. number of invalidations: 			34
+11. number of flushes: 				0
+============ Simulation results (Cache 1) ============
+01. number of reads: 				2341
+02. number of read misses: 			228
+03. number of writes: 				229
+04. number of write misses:			2
+05. total miss rate: 				8.95%
+06. number of writebacks: 			8
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		262
+09. number of interventions: 			0
+10. number of invalidations: 			34
+11. number of flushes: 				0
+============ Simulation results (Cache 2) ============
+01. number of reads: 				2396
+02. number of read misses: 			215
+03. number of writes: 				253
+04. number of write misses:			2
+05. total miss rate: 				8.19%
+06. number of writebacks: 			5
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		242
+09. number of interventions: 			0
+10. number of invalidations: 			35
+11. number of flushes: 				0
+============ Simulation results (Cache 3) ============
+01. number of reads: 				1969
+02. number of read misses: 			232
+03. number of writes: 				204
+04. number of write misses:			0
+05. total miss rate: 				10.68%
+06. number of writebacks: 			10
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		269
+09. number of interventions: 			0
+10. number of invalidations: 			32
+11. number of flushes: 				0

@@ -1,0 +1,59 @@
+===== 506 Personal information =====
+FirstName (MiddleNames) LastName (Change it to your own name)
+UnityID (Change it to your own UID)
+Section ECE/CSC00x (Change it according to your own section)
+===== 506 SMP Simulator configuration =====
+L1_SIZE:		8192
+L1_ASSOC:		8
+L1_BLOCKSIZE:		64
+NUMBER OF PROCESSORS:	4
+COHERENCE PROTOCOL:	MESI
+TRACE FILE:		traces/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads: 				112661
+02. number of read misses: 			9154
+03. number of writes: 				11942
+04. number of write misses:			39
+05. total miss rate: 				7.38%
+06. number of writebacks: 			959
+07. number of cache-to-cache transfers: 	6793
+08. number of memory transactions: 		3359
+09. number of interventions: 			1921
+10. number of invalidations: 			2004
+11. number of flushes: 				63
+============ Simulation results (Cache 1) ============
+01. number of reads: 				110830
+02. number of read misses: 			8961
+03. number of writes: 				11710
+04. number of write misses:			41
+05. total miss rate: 				7.35%
+06. number of writebacks: 			925
+07. number of cache-to-cache transfers: 	6700
+08. number of memory transactions: 		3227
+09. number of interventions: 			1863
+10. number of invalidations: 			2025
+11. number of flushes: 				62
+============ Simulation results (Cache 2) ============
+01. number of reads: 				114938
+02. number of read misses: 			8961
+03. number of writes: 				12383
+04. number of write misses:			42
+05. total miss rate: 				7.07%
+06. number of writebacks: 			945
+07. number of cache-to-cache transfers: 	6733
+08. number of memory transactions: 		3215
+09. number of interventions: 			1879
+10. number of invalidations: 			1997
+11. number of flushes: 				65
+============ Simulation results (Cache 3) ============
+01. number of reads: 				113428
+02. number of read misses: 			9057
+03. number of writes: 				12108
+04. number of write misses:			39
+05. total miss rate: 				7.25%
+06. number of writebacks: 			935
+07. number of cache-to-cache transfers: 	6774
+08. number of memory transactions: 		3257
+09. number of interventions: 			1917
+10. number of invalidations: 			2007
+11. number of flushes: 				66

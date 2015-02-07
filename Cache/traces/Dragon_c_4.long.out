@@ -1,0 +1,59 @@
+===== 506 Personal information =====
+FirstName (MiddleNames) LastName (Change it to your own name)
+UnityID (Change it to your own UID)
+Section ECE/CSC00x (Change it according to your own section)
+===== 506 SMP Simulator configuration =====
+L1_SIZE:		8192
+L1_ASSOC:		8
+L1_BLOCKSIZE:		64
+NUMBER OF PROCESSORS:	4
+COHERENCE PROTOCOL:	Dragon
+TRACE FILE:		traces/canneal.04t.longTrace
+============ Simulation results (Cache 0) ============
+01. number of reads: 				112661
+02. number of read misses: 			9614
+03. number of writes: 				11942
+04. number of write misses:			5
+05. total miss rate: 				7.72%
+06. number of writebacks: 			1006
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		10625
+09. number of interventions: 			1994
+10. number of invalidations: 			0
+11. number of flushes: 				15
+============ Simulation results (Cache 1) ============
+01. number of reads: 				110830
+02. number of read misses: 			9472
+03. number of writes: 				11710
+04. number of write misses:			6
+05. total miss rate: 				7.73%
+06. number of writebacks: 			979
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		10457
+09. number of interventions: 			1978
+10. number of invalidations: 			0
+11. number of flushes: 				19
+============ Simulation results (Cache 2) ============
+01. number of reads: 				114938
+02. number of read misses: 			9456
+03. number of writes: 				12383
+04. number of write misses:			6
+05. total miss rate: 				7.43%
+06. number of writebacks: 			984
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		10446
+09. number of interventions: 			1937
+10. number of invalidations: 			0
+11. number of flushes: 				17
+============ Simulation results (Cache 3) ============
+01. number of reads: 				113428
+02. number of read misses: 			9568
+03. number of writes: 				12108
+04. number of write misses:			4
+05. total miss rate: 				7.62%
+06. number of writebacks: 			986
+07. number of cache-to-cache transfers: 	0
+08. number of memory transactions: 		10558
+09. number of interventions: 			1977
+10. number of invalidations: 			0
+11. number of flushes: 				10
